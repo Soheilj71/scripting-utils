@@ -19,8 +19,8 @@ This tool is lightweight, dependency-free, and designed for reproducible data ex
 # 🛠 Installation
 Clone your repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Soheilj71/scripting-utils.git
+cd scripting-utils
 ```
 
 Or simply download `txt_to_csv_extractor.py`.
